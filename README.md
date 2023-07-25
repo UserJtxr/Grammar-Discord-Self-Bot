@@ -1,6 +1,27 @@
-# Grammar-Discord-Self-Bot
+
+# Discord Auto-Correct Selfbot
 This clever little self bot prowls your Discord chats, always on the lookout for basic grammar slip-ups. Spot a lowercase `'i'` standing alone? Not on its watch! From capitalizing the first letter of your sentences to correcting common internet shorthand like `'btw'` to `'by the way'`, **this bot's got your back.** It's like having your very own pocket-sized English teacher. So go ahead, type away, and let the `#GrammarPolice` handle the rest! 
 
+## Features
+
+- Corrects common shorthand like 'btw', 'lol', 'omg', 'idk' to their full forms.
+- Ensures every sentence ends with a period.
+- Capitalizes the first letter of sentences.
+- Respects a cooldown to prevent spamming edits.
+
+## Disclaimer
+
+Use this selfbot responsibly and ensure you adhere to Discord's TOS when using it. We are not responsible for any misuse of this bot.
+
+## Contributing
+
+If you'd like to contribute or have any suggestions, feel free to open an issue or a pull request!
+
+## License
+
+This project is licensed. See LICENSE file for details.
+
+Remember to replace `'your_token_here'` with your actual token, and never share your token with anyone. Happy coding! 🚀
 
 **Let's Get Building.**
 
@@ -81,13 +102,15 @@ Finally, this part logs the bot in using the token provided in an environment va
 
 Hope this helps! Let me know if you have any questions.
 
+## Side Note
+Create a `.env` file and add your bot token like so: `TOKEN=your_token_here`.
 
+## Ending Message 
 
-# Ending
+Hey Everyone, JTXR here! I have created this bot for educational purposes only haha. 
 
-Feel Free to use it.
-I'd Feel Good If You Added me `Khaos#5861`
+Send this github page to the friend who doesnt know how to write properply!
 
-Thank you! 
+Also Please Add ME, We can talk together. :) 
 
-**Code By Khaos**
+User - ``1132589798029262919`` / ``Khaos#5861``
