@@ -1,6 +1,9 @@
 # Grammar-Discord-Self-Bot
-Hey, This is a self bot in `Node.js` It check for ~grammatical~ errors and fixes it. 
+Hey, This is a self bot in `Node.js` It check for ~grammtial~ grammatical errors and fixes it. 
 
 Feel Free to use it.
+I'd Feel Good If You Added me `Khaos#5861`
 
-You MUST Join `discord.gg/Xw6DceZHNp`
+Thank you! 
+
+**Code By Khaos**
