@@ -58,7 +58,7 @@ client.on('message', async message => {
     }
 });
 
-client.login(process.env.TOKEN)
+client.login(process.env.TOKEN) // READ the README.md File if it doesnt work for you, scroll down to "Side Note"
 .catch(err => console.error(`Failed to login: ${err}`));
 
 // **code by JTXR AKA KHAOS.**
