@@ -113,4 +113,4 @@ Send this github page to the friend who doesnt know how to write properply!
 
 Also Please Add ME, We can talk together. :) 
 
-User - ``1132589798029262919`` / ``Khaos#5861``
+User - ``1132589798029262919`` / ``thatkhaosguy``
